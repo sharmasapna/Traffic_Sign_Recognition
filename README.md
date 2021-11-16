@@ -1,9 +1,9 @@
 ## Traffic Sign Recognition
-### A project done by Dewanshi Deswal, Sapna Sharma and Sarang Pandey as a Capstone project for DS5500, Northeastern University,Boston.
+### A project done by <br> Dewanshi Deswal, Sapna Sharma and Sarang Pandey <br> as a Capstone project for DS5500, Northeastern University,Boston.
 
 
 
-<img src="German-traffic-sign.png">
+<img src="https://github.com/sharmasapna/Traffic_Sign_Recognition/blob/main/data/German-traffic-sign.png" width="300" height="300">
 
 ## Abstract
      
