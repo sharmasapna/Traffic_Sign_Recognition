@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/sharmasapna/BlueBike_Traffic_Forecasting/blob/main/data/bluebikepic.jpeg">
+<!--- <img src="https://github.com/sharmasapna/BlueBike_Traffic_Forecasting/blob/main/data/bluebikepic.jpeg"> --->
 
 ## Abstract
      
@@ -14,10 +14,10 @@
     
     
 ### Some EDA Results are as follows:
-
+<!---
 <img src="https://github.com/sharmasapna/BlueBike_Traffic_Forecasting/blob/main/data/date-wise.png" width="450" height="150">
 <img src="https://github.com/sharmasapna/BlueBike_Traffic_Forecasting/blob/main/data/EDA_Results.png">
 
 <img src="https://github.com/sharmasapna/BlueBike_Traffic_Forecasting/blob/main/data/Hourly_Weekday_Heatmap.png" width="400" height="200"><img src="https://github.com/sharmasapna/BlueBike_Traffic_Forecasting/blob/main/data/bb_from_to stations_heatmap.png" width="200" height="200">
 
-
+<!---
