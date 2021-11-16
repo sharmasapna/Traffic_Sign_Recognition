@@ -8,6 +8,7 @@
 ## Abstract
      
 ## Problem Description
+It is observed that most road accidents happen due to human errors, where a driver might miss the STOP sign or did not see the speed limit etc. Thus, for the safety of the drivers and other passengers, Advanced Driver Assistance Systems(ADAS) such as Traffic Sign Recognition(TSR), plays a major role in avoiding accidents due to human error. Safety features like alerting the driver if he is overspeeding can be instrumental in avoiding accidents and allowing the driver to follow traffic rules.
 
 ## Dataset and Preprocessing 
 
