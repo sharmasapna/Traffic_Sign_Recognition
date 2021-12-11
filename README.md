@@ -25,11 +25,19 @@ ClassId: Class label of the image. It is an Integer between 0 and 43.
 Path: Path where the image is present in the Train folder. 
  
  
-## Proposed Plan
+## Steps Folowed 
+1. Image cropped according to the dimensions given in the csv
+2. Image resizing by cropping/ padding to size 64x64 and 30x30
+3. Image color enhancing with histogram equalizer method
+4. Image sharpening
+5. Data augmentation 
+6. CNN model with 4 convolutional layer and 2 dense layer
+7. Model training 
+8. Results
 
-We plan to build models based on deep neural networks to classify the traffic signs present in the image into different categories. First, we intend to update the image sizes and reshape each image to a consistent format. Next, we will divide the training data into train and validation sets (25% of images for validation). We will try out multiple deep learning models and evaluate them based on factors like F1-score, Precision, Recall etc. We will also ensure that there is no overfitting in the model by assessing model loss. If time permits, we also intend to create a GUI that code predicts the signs in real time. 
 
-## Preliminary Results
+
+## Results
 
 The classes are clearly not uniformly distributed, as can be seen in Figure 1. There are certain signs that appear more often than others. Less numbers of images can potentially undermine the training process.
 <img src="https://github.com/sharmasapna/Traffic_Sign_Recognition/blob/main/data/train_sample_distribution.png">
