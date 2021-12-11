@@ -25,7 +25,7 @@ ClassId: Class label of the image. It is an Integer between 0 and 43.
 Path: Path where the image is present in the Train folder. 
  
  
-## Steps Folowed 
+## Steps Followed 
 1. Image cropped according to the dimensions given in the csv
 2. Image resizing by cropping/ padding to size 64x64 and 30x30
 3. Image color enhancing with histogram equalizer method
