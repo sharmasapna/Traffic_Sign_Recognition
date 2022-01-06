@@ -1,5 +1,5 @@
 ## Traffic Sign Recognition
-A project done by <br> Dewanshi Deswal, Sapna Sharma and Sarang Pandey <br> as a Capstone project for DS5500, Northeastern University,Boston.
+
 
 
 
